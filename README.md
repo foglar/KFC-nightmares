@@ -6,6 +6,8 @@
 
 "Tady bude video nebo cool obrázek"
 
+![shrek](https://cdn.xsd.cz/resize/a29c9f5a99713ba4ac9abaaf156de9d1_resize=680,383_.jpg?hash=1537ab9be3c3284d21495668cb038894)
+
 ### Game is in development 🏗️
 
 ![Unity](https://img.shields.io/badge/MADE%20WITH-UNITY-green?style=flat&logo=unity)
