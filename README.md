@@ -1,10 +1,12 @@
 # Sussy-game
 
-"Tady bude video nebo cool obrázek"
-
 ![CZECH](https://img.shields.io/badge/MADE%20IN-CZECH-red?style=for-the-badge)
 ![Lines of code](https://img.shields.io/tokei/lines/github/foglar/sussy-game?color=green&style=for-the-badge)
 ![Discord](https://img.shields.io/discord/864534986602446878?style=for-the-badge)
+
+"Tady bude video nebo cool obrázek"
+
+### Game is in development 🏗️
 
 ![Unity](https://img.shields.io/badge/MADE%20WITH-UNITY-green?style=flat&logo=unity)
 ![GitHub Repo stars](https://img.shields.io/github/stars/foglar/sussy-game?style=flat-square)
