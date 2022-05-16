@@ -1,7 +1,7 @@
 # KFC-nightmares
 
 ![CZECH](https://img.shields.io/badge/MADE%20IN-CZECH-red?style=for-the-badge)
-![Lines of code](https://img.shields.io/tokei/lines/github/foglar/sussy-game?color=green&style=for-the-badge)
+![Lines of code](https://img.shields.io/tokei/lines/github/foglar/KFC-nightmares?color=green&style=for-the-badge)
 ![Discord](https://img.shields.io/discord/864534986602446878?style=for-the-badge&logo=discord&color=2529a8)
 
 "Tady bude video nebo cool obrázek"
