@@ -6,9 +6,7 @@
 
 "Tady bude video nebo cool obrázek"
 
-![shrek](https://cdn.xsd.cz/resize/a29c9f5a99713ba4ac9abaaf156de9d1_resize=680,383_.jpg?hash=1537ab9be3c3284d21495668cb038894)
-
-### Game is in development 🏗️
+## Game is in development 🏗️
 
 ![Unity](https://img.shields.io/badge/MADE%20WITH-UNITY-green?style=flat&logo=unity)
 ![GitHub Repo stars](https://img.shields.io/github/stars/foglar/sussy-game?style=flat-square)
@@ -17,12 +15,10 @@
 
 ## About Game
 
-nic
+Simple
 
 ## Installation and requirements
 
-nic
-
-## Conect with sus
-
-sem něco přidám
+```bash
+git clone https://github.com/foglar/KFC-nightmares.git
+```
